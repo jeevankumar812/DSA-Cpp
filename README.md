@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0904-fruit-into-baskets) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Math
 |  |
@@ -25,4 +26,12 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Hash Table
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0904-fruit-into-baskets) |
+## Sliding Window
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
