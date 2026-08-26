@@ -10,6 +10,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0904-fruit-into-baskets) |
 | [1094-car-pooling](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1094-car-pooling) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1590-make-sum-divisible-by-p) |
@@ -68,6 +69,7 @@
 | [0219-contains-duplicate-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0904-fruit-into-baskets) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
