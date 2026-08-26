@@ -17,6 +17,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1590-make-sum-divisible-by-p) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2104-sum-of-subarray-ranges) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3046-split-the-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3046-split-the-array) |
@@ -134,4 +135,12 @@
 |  |
 | ------- |
 | [3804-number-of-centered-subarrays](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3804-number-of-centered-subarrays) |
+## Stack
+|  |
+| ------- |
+| [2104-sum-of-subarray-ranges](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2104-sum-of-subarray-ranges) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2104-sum-of-subarray-ranges](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
