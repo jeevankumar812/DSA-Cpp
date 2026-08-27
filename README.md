@@ -7,6 +7,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0643-maximum-average-subarray-i) |
 | [0845-longest-mountain-in-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0845-longest-mountain-in-array) |
@@ -47,6 +48,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
@@ -66,6 +68,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0575-distribute-candies) |
 | [0904-fruit-into-baskets](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0992-subarrays-with-k-different-integers) |
@@ -95,12 +98,14 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0845-longest-mountain-in-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0845-longest-mountain-in-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1094-car-pooling](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1094-car-pooling) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Prefix Sum
