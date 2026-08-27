@@ -8,6 +8,7 @@
 | [0219-contains-duplicate-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0643-maximum-average-subarray-i) |
+| [0845-longest-mountain-in-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0992-subarrays-with-k-different-integers) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0845-longest-mountain-in-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0845-longest-mountain-in-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
@@ -129,6 +131,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0845-longest-mountain-in-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Counting
 |  |
@@ -139,6 +142,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0845-longest-mountain-in-array) |
 | [3804-number-of-centered-subarrays](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3804-number-of-centered-subarrays) |
 ## Stack
 |  |
