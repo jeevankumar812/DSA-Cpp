@@ -15,6 +15,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0992-subarrays-with-k-different-integers) |
 | [1094-car-pooling](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1094-car-pooling) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1512-number-of-good-pairs](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1590-make-sum-divisible-by-p) |
@@ -33,6 +34,7 @@
 ## Math
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -67,6 +69,7 @@
 | [0575-distribute-candies](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0575-distribute-candies) |
 | [0904-fruit-into-baskets](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0992-subarrays-with-k-different-integers) |
+| [1512-number-of-good-pairs](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1590-make-sum-divisible-by-p) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -139,6 +142,7 @@
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0992-subarrays-with-k-different-integers) |
+| [1512-number-of-good-pairs](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1814-count-nice-pairs-in-an-array) |
 | [3046-split-the-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3046-split-the-array) |
 ## Enumeration
