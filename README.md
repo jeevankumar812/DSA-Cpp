@@ -8,6 +8,7 @@
 | [0219-contains-duplicate-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0643-maximum-average-subarray-i) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0992-subarrays-with-k-different-integers) |
 | [1094-car-pooling](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1094-car-pooling) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
@@ -146,4 +148,8 @@
 |  |
 | ------- |
 | [2104-sum-of-subarray-ranges](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2104-sum-of-subarray-ranges) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
