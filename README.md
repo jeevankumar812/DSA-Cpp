@@ -38,6 +38,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3364-minimum-positive-sum-subarray](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3364-minimum-positive-sum-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3804-number-of-centered-subarrays](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3804-number-of-centered-subarrays) |
 ## Math
@@ -196,11 +197,13 @@
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -209,4 +212,9 @@
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1091-shortest-path-in-binary-matrix) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
