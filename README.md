@@ -31,6 +31,7 @@
 | [2248-intersection-of-multiple-arrays](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2248-intersection-of-multiple-arrays) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2574-left-and-right-sum-differences](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2574-left-and-right-sum-differences) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3046-split-the-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3046-split-the-array) |
@@ -133,6 +134,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1590-make-sum-divisible-by-p) |
+| [2574-left-and-right-sum-differences](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2574-left-and-right-sum-differences) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3364-minimum-positive-sum-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3432-count-partitions-with-even-sum-difference) |
