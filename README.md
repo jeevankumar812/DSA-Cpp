@@ -145,6 +145,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0006-zigzag-conversion) |
 | [1927-sum-game](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1927-sum-game) |
 ## Greedy
 |  |
