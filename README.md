@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0027-remove-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -112,6 +113,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0027-remove-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0845-longest-mountain-in-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0845-longest-mountain-in-array) |
