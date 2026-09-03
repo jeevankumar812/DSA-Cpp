@@ -210,6 +210,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
@@ -219,6 +220,7 @@
 | [1302-deepest-leaves-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1609-even-odd-tree) |
+| [3310-remove-methods-from-project](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
@@ -238,4 +240,8 @@
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
