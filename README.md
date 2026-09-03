@@ -43,6 +43,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3804-number-of-centered-subarrays](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3804-number-of-centered-subarrays) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
 | ------- |
