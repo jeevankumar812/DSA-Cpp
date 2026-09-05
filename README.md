@@ -204,6 +204,7 @@
 ## Tree
 |  |
 | ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -211,6 +212,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -219,6 +221,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1302-deepest-leaves-sum) |
