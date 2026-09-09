@@ -218,6 +218,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -228,6 +229,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1302-deepest-leaves-sum) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1609-even-odd-tree) |
 | [3310-remove-methods-from-project](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3310-remove-methods-from-project) |
@@ -250,10 +252,12 @@
 ## Union-Find
 |  |
 | ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [3310-remove-methods-from-project](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
