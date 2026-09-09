@@ -258,9 +258,14 @@
 |  |
 | ------- |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [3310-remove-methods-from-project](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1305-all-elements-in-two-binary-search-trees) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 <!---LeetCode Topics End-->
