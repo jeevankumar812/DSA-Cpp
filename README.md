@@ -50,6 +50,7 @@
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -270,4 +271,8 @@
 |  |
 | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
