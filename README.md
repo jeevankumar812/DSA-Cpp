@@ -92,6 +92,7 @@
 | [0904-fruit-into-baskets](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0992-subarrays-with-k-different-integers) |
 | [1512-number-of-good-pairs](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1512-number-of-good-pairs) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1590-make-sum-divisible-by-p](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1590-make-sum-divisible-by-p) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -133,6 +134,7 @@
 | [1094-car-pooling](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1094-car-pooling) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2248-intersection-of-multiple-arrays) |
 ## Prefix Sum
@@ -157,10 +159,12 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0006-zigzag-conversion) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1927-sum-game) |
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1927-sum-game) |
 ## Game Theory
 |  |
