@@ -161,6 +161,7 @@
 | [0006-zigzag-conversion](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0006-zigzag-conversion) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1927-sum-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1094-car-pooling) |
+| [3498-reverse-degree-of-a-string](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
