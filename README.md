@@ -228,6 +228,7 @@
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3310-remove-methods-from-project](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
@@ -240,6 +241,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1609-even-odd-tree) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3310-remove-methods-from-project](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -262,12 +264,14 @@
 |  |
 | ------- |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3310-remove-methods-from-project](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
