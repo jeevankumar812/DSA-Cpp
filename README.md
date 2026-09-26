@@ -19,6 +19,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1109-corporate-flight-bookings) |
+| [1267-count-servers-that-communicate](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1267-count-servers-that-communicate) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1480-running-sum-of-1d-array) |
@@ -192,6 +193,7 @@
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1267-count-servers-that-communicate) |
 | [1512-number-of-good-pairs](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2248-intersection-of-multiple-arrays) |
@@ -228,6 +230,7 @@
 | ------- |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -243,6 +246,7 @@
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1302-deepest-leaves-sum) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -266,12 +270,14 @@
 | ------- |
 | [0835-image-overlap](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0835-image-overlap) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1267-count-servers-that-communicate) |
 | [1992-find-all-groups-of-farmland](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1992-find-all-groups-of-farmland) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2368-reachable-nodes-with-restrictions) |
