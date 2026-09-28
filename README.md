@@ -294,6 +294,7 @@
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2924-find-champion-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2924-find-champion-ii) |
 | [3310-remove-methods-from-project](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
