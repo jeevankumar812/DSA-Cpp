@@ -166,6 +166,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0006-zigzag-conversion) |
+| [0032-longest-valid-parentheses](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0032-longest-valid-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1927-sum-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3498-reverse-degree-of-a-string) |
@@ -191,6 +192,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0032-longest-valid-parentheses) |
 | [0845-longest-mountain-in-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0845-longest-mountain-in-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Counting
@@ -211,6 +213,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0032-longest-valid-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -320,4 +323,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0347-top-k-frequent-elements) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
