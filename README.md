@@ -100,6 +100,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1590-make-sum-divisible-by-p](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1590-make-sum-divisible-by-p) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1796-second-largest-digit-in-a-string](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1796-second-largest-digit-in-a-string) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2248-intersection-of-multiple-arrays) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -168,6 +169,7 @@
 | [0006-zigzag-conversion](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0006-zigzag-conversion) |
 | [0032-longest-valid-parentheses](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0032-longest-valid-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1796-second-largest-digit-in-a-string](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1796-second-largest-digit-in-a-string) |
 | [1927-sum-game](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1927-sum-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
