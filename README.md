@@ -21,6 +21,7 @@
 | [0904-fruit-into-baskets](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1109-corporate-flight-bookings) |
@@ -82,6 +83,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2187-minimum-time-to-complete-trips) |
