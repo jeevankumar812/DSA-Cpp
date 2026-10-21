@@ -60,6 +60,7 @@
 ## Math
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0441-arranging-coins) |
 | [0836-rectangle-overlap](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -76,6 +77,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0275-h-index-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0441-arranging-coins](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0441-arranging-coins) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1508-range-sum-of-sorted-subarray-sums) |
