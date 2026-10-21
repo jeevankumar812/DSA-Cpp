@@ -29,17 +29,29 @@ public:
         int i=1;
         int limit=*max_element(b.begin(),b.end());
         int ans=0;
-        while(i<=limit)
+        int low=1,high=limit;
+        while(low<=high)
         {
-            if(check(i,b,n))
+            int mid=low+(high-low)/2;
+
+            if(check(mid,b,n)==true)
             {
-                ans=i;
+                
+                if(high==low || check(mid+1,b,n)==false)
+                {
+                    ans=mid;
+                    break;
+                }
+                else
+                {
+                    low=mid+1;
+                }
             }
             else
             {
-                break;
+                high=mid-1;
             }
-            i++;
+            
         }
         return ans;
     }
