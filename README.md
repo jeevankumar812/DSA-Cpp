@@ -7,6 +7,7 @@
 | [0027-remove-element](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0027-remove-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0219-contains-duplicate-ii) |
+| [0274-h-index](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -145,6 +146,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -341,4 +343,8 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0032-longest-valid-parentheses) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
