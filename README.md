@@ -52,6 +52,7 @@
 | [3046-split-the-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3046-split-the-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3364-minimum-positive-sum-subarray](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3364-minimum-positive-sum-subarray) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -126,6 +127,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3046-split-the-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3046-split-the-array) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3804-number-of-centered-subarrays](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3804-number-of-centered-subarrays) |
@@ -183,6 +185,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2574-left-and-right-sum-differences) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3364-minimum-positive-sum-subarray) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3904-smallest-stable-index-ii) |
