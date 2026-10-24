@@ -71,6 +71,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1927-sum-game](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2409-count-days-spent-together) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -197,6 +198,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1796-second-largest-digit-in-a-string) |
 | [1927-sum-game](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
