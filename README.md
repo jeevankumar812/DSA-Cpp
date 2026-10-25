@@ -261,6 +261,7 @@
 |  |
 | ------- |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -271,6 +272,7 @@
 |  |
 | ------- |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1302-deepest-leaves-sum) |
@@ -302,6 +304,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1305-all-elements-in-two-binary-search-trees) |
