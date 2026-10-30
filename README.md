@@ -8,6 +8,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0209-minimum-size-subarray-sum) |
+| [0213-house-robber-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0275-h-index-ii) |
@@ -230,6 +231,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0032-longest-valid-parentheses) |
 | [0198-house-robber](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0213-house-robber-ii) |
 | [0377-combination-sum-iv](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0377-combination-sum-iv) |
 | [0845-longest-mountain-in-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0845-longest-mountain-in-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
