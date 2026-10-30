@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0053-maximum-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0209-minimum-size-subarray-sum) |
@@ -230,6 +231,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0213-house-robber-ii) |
 | [0377-combination-sum-iv](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0377-combination-sum-iv) |
@@ -357,6 +359,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
