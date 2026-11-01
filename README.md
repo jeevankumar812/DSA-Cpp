@@ -16,6 +16,7 @@
 | [0347-top-k-frequent-elements](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0377-combination-sum-iv) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0643-maximum-average-subarray-i) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
