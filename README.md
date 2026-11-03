@@ -63,6 +63,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3804-number-of-centered-subarrays](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3804-number-of-centered-subarrays) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3903-smallest-stable-index-i) |
@@ -82,6 +83,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
