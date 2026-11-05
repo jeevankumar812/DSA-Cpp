@@ -35,6 +35,7 @@
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1331-rank-transform-of-an-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1480-running-sum-of-1d-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -99,6 +100,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1300-sum-of-mutated-array-closest-to-target) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/jeevankumar812/DSA-Cpp/tree/master/2187-minimum-time-to-complete-trips) |
@@ -164,6 +166,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0845-longest-mountain-in-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/0845-longest-mountain-in-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
@@ -177,6 +180,7 @@
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jeevankumar812/DSA-Cpp/tree/master/1679-max-number-of-k-sum-pairs) |
