@@ -1,36 +1,37 @@
 class Solution {
 public:
-    int numOfSubarrays(vector<int>& arr) {
-        int n = arr.size();
-
-        long long c = 0;
-        int mod = 1e9 + 7;
-
-        int sum = 0;
-
-        int even = 1;
-        int odd = 0;
-
-        for(int i = 0; i < n; i++)
+    int numOfSubarrays(vector<int>& b) {
+        int n=b.size();
+        vector<vector<long long>> dp(n, vector<long long>(2, 0));
+        const int MOD = 1e9 + 7;
+        if(b[0]%2==0)
         {
-            sum += arr[i];
+            dp[0][0]=1;
+        }
+        else
+        {
+            dp[0][1]=1;
+        }
 
-            int curr = sum % 2;
-
-            if(curr == 0)
+        for(int i=1;i<n;i++)
+        {
+            if(b[i]%2==0)
             {
-                c += odd;
-                even++;
+                dp[i][0]=(1+dp[i-1][0])%MOD;
+                dp[i][1]=dp[i-1][1];
             }
             else
             {
-                c += even;
-                odd++;
+                dp[i][0]=dp[i-1][1];
+                dp[i][1]=(1+dp[i-1][0])%MOD;
             }
-
-            c %= mod;
+        }
+        long long ans=0;
+        for(int i=0;i<n;i++)
+        {
+            ans=(ans + dp[i][1])%MOD;
         }
 
-        return c;
+        return ans;
     }
 };
